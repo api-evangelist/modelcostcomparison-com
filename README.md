@@ -1,4 +1,4 @@
-# modelcostcomparison-com
+# Model Cost Comparison
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,139 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-modelcostcomparison-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://modelcostcomparison.com/
+Model Cost Comparison (modelcostcomparison.com): compare 61 reviewed API offers across 11 providers. Free calculator for OpenAI, Anthropic, Claude, Gemini, Mistral, and more — cache-aware token pricing, updated Monday 19th October 2026.
+
+**Areas:** AI · Cost Comparison · LLM · Pricing · Calculator
+
+## Model Cost Comparison on APIs.io
+
+Everything profiled for Model Cost Comparison is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/modelcostcomparison-com/](https://apis.io/providers/modelcostcomparison-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (7)
+
+- [Model Cost Comparison Ai Benchmarks Snapshot.json API](https://apis.io/apis/modelcostcomparison-com/modelcostcomparison-com-ai-benchmarks-snapshot-json-api/) — The Ai Benchmarks Snapshot.json API from Model Cost Comparison — 1 operation(s) for ai benchmarks snapshot.json.
+- [Model Cost Comparison Ai Provider Pricing Validated.json API](https://apis.io/apis/modelcostcomparison-com/modelcostcomparison-com-ai-provider-pricing-validated-json-api/) — The Ai Provider Pricing Validated.json API from Model Cost Comparison — 1 operation(s) for ai provider pricing validated.json.
+- [Model Cost Comparison Cron API](https://apis.io/apis/modelcostcomparison-com/modelcostcomparison-com-cron-api/) — The Cron API from Model Cost Comparison — 1 operation(s) for cron.
+- [Model Cost Comparison Llms.txt API](https://apis.io/apis/modelcostcomparison-com/modelcostcomparison-com-llms-txt-api/) — The Llms.txt API from Model Cost Comparison — 1 operation(s) for llms.txt.
+- [Model Cost Comparison Mcc Model Advisor API](https://apis.io/apis/modelcostcomparison-com/modelcostcomparison-com-mcc-model-advisor-api/) — The Mcc Model Advisor API from Model Cost Comparison — 1 operation(s) for mcc model advisor.
+- [Model Cost Comparison Model Cost Comparison API](https://apis.io/apis/modelcostcomparison-com/modelcostcomparison-com-model-cost-comparison-api-api/) — The Model Cost Comparison API API from Model Cost Comparison — 1 operation(s) for model cost comparison api.
+- [Model Cost Comparison Models API](https://apis.io/apis/modelcostcomparison-com/modelcostcomparison-com-models-api/) — The Models API from Model Cost Comparison — 1 operation(s) for models.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Modelcostcomparison Com Agentic Access](https://apis.io/agentic-access/modelcostcomparison-com/modelcostcomparison-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [AdvisorResult](https://apis.io/schemas/modelcostcomparison-com/modelcostcomparison-com-advisor-result/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Modelcostcomparison Com Context](https://apis.io/jsonld/modelcostcomparison-com/modelcostcomparison-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Model Cost Comparison API Rules](https://apis.io/rules/modelcostcomparison-com/modelcostcomparison-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Modelcostcomparison Com Authentication](https://apis.io/security/modelcostcomparison-com/modelcostcomparison-com-authentication/)
+- [Modelcostcomparison Com Domain Security](https://apis.io/security/modelcostcomparison-com/modelcostcomparison-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Modelcostcomparison Com Scopes](https://apis.io/scopes/modelcostcomparison-com/modelcostcomparison-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Modelcostcomparison Com Plans Pricing](https://apis.io/plans/modelcostcomparison-com/modelcostcomparison-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Modelcostcomparison Com Rate Limits](https://apis.io/rate-limits/modelcostcomparison-com/modelcostcomparison-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://modelcostcomparison.com/)
+- [Documentation](https://modelcostcomparison.com/developers)
+- [Getting started](https://modelcostcomparison.com/how-to-use-ai-api-cost-calculator)
+- [API reference](https://modelcostcomparison.com/openapi.json)
+- [Privacy policy](https://modelcostcomparison.com/privacy)
+- [GitHub](https://github.com/Lazige)
+
+## API Evangelist rating
+
+**Kin Score 49.0** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 52.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 70.7 |
+| Access clarity | 10.5 |
+
+**Agent readiness 43.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/modelcostcomparison-com/](https://apis.io/providers/modelcostcomparison-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Model Cost Comparison: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/modelcostcomparison-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
